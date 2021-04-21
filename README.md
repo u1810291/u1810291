@@ -1,28 +1,4 @@
 ### Hi there 👋
-   .　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　*　　　　　　　　.　　　　　　　　　　. 　　 　　　　 ✦      
-         ‍ ‍ ‍ 　　　　 　　　　　　　　　　,　　   　   
- .                                          
-  .　　　　　　　　.　　　ﾟ　  　　　.　　　　　`　　　　　　　　.
-
-.　　　　　　　　　　　. 　　　　　　　　　　　　　　　　✨　　　　　     　   　　　　　　 　    ✦ 　 　　,　　  
-   .　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　*　　　　　　　　.　　　　　　　　　　. 　　 　　　　 ✦      
-　　　　 　　　　　　　　　　,　　   　
-    ✨    *
-    ,　　　　　　　.　　　　　　　　　 ☀️ 　　　　　　　*　　　　　　　　　　.         ,       `
-
-.　　　　　　　　.　　　ﾟ　  　　　.　　　　　　　　　　　　　.
-
-　　　 　   　　　　,　　　　   　　　　　　　　　　　.　
-             🚀 　　　　 　　,　　 　 　　　　　　　　　　　　      .　 　　 　　 　　　.　　　　  ,
-
-
-　　　　　　　　　　　　　.　　　　　　　　* 　　   　　　　　 ✦ 　　　　　　　         　        　　　　 　　 　　✨　　　　 　　　　　.　　　　　　　　
-             .　　　　 🌑   　　　　　.　　　　　　　.　　　 　　　　　　　   　
-
-　 ˚　　　　　　　　　ﾟ　　　　　.　　　　　　　　　　　　. 　　 　 🌎 ‍ ‍ ‍,　 　　　　　　　　* .　
-.　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　.　　　　　　　　　　　.
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working in Avtech
