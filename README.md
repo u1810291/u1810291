@@ -3,7 +3,7 @@ First and foremost, I love writing code. Ever since writing my first program in 
 a desired output, I have been obsessed with the idea of using software to solve practical problems. Software
 engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of
 programming to transform and improve the lives of people around the world.
-- For my first professional contract, I was given the opportunity to lead a full database management and analyzing
+- For my first professional contract with Turonbank, I was given the opportunity to lead a full database management and analyzing
 data that contains this database. For managing manipulating these data I have been using PL/SQL, 'Metabase'
 opensource platform and python programming language. My second contract involved injecting HTML/CSS/
 JavasCript on popular delivery dispatch websites via a browser extension. This contract with Silkroad express
