@@ -8,7 +8,7 @@ data that contains this database. For managing manipulating these data I have be
 opensource platform and python programming language. My second contract involved injecting HTML/CSS/
 JavasCript on popular delivery dispatch websites via a browser extension. This contract with Silkroad express
 quickly turned into a full time offer and I have been happily expanding my role as a software engineer ever since.
-Today, I am middle ReactJs developer at AVTECH working on the frontend into our customer acquistion flow so
+Today, I am middle ReactJs developer at AVTECH working on the frontend into our customer acquisition flow so
 that it can be dynamically composed using demographic data and allow for CI/CD deployments to bring features to
 market faster.
 - Even when I leave the office, I tend to continue wriring code at the house. Most recently I have been working
