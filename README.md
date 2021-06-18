@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ReactJs
 - 📫 How to reach me: telegram username <a href="https://t.me/sophisticated20">@sophisticated20</a> or email o.rizakulov@student.inha.uz
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=u1810291)](https://github.com/anuraghazra/github-readme-stats) 
-<br>
 
 [![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=u1810291&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
