@@ -15,23 +15,23 @@ market faster.
 on a website for my band Colibrisoft. This what keeps me up at night, a never ending thirst to create beautiful,
 poweful thinsg and share them with the world.
 Skills: 
-  • HTML/CSS/Javascript, TypeScript, Bootstrap, MDBootstrap
-  • Reactjs, Redux, thunk, saga efects, styled-components, reactstrap, Material-UI, Ant-design
-  • Agile/Scrum/Kanban, trello
-  • Additional skills: Django Rest Framework, Mysql/Postgresl/PLSQL(Oracle), Python, C++, Git, GirLab
-  • Soft: Communicative, Problem-solving, Teamwork, Critical thinking (often in my decisions)
+  - HTML/CSS/Javascript, TypeScript, Bootstrap, MDBootstrap
+  - Reactjs, Redux, thunk, saga efects, styled-components, reactstrap, Material-UI, Ant-design
+  - Agile/Scrum/Kanban, trello
+  - Additional skills: Django Rest Framework, Mysql/Postgresl/PLSQL(Oracle), Python, C++, Git, GirLab
+  - Soft: Communicative, Problem-solving, Teamwork, Critical thinking (often in my decisions)
 Experience:
-  • Qualified frontend-developer with over 2 years of experience at engineering, during this time developed and 
+  - Qualified frontend-developer with over 2 years of experience at engineering, during this time developed and 
      delivered to client web applications in technically complex heterogeneous environment.
-  • Experience on development of SCM/ERP/CRM/CMS/HRM systems
-  • Key areas of technical expertise: Frontend development, deployment in Docker, testing, production 
+  - Experience on development of SCM/ERP/CRM/CMS/HRM systems
+  - Key areas of technical expertise: Frontend development, deployment in Docker, testing, production 
     troubleshooting.
-  • Middle theoretical understanding and hands-on experience in working with enterprise-level solutions.
-  • Experience in projects with fast-changing business requirements and puzzling business logic and multitasking.
-  • Successful experience in with performance optimization, search engine optimization.
-  • Implementing individual type of project structures, writing easy to scale/extend/reuse code.
-  • Strong focus on bugs free code, UI/UX correctness.
-  • Experience on Agile/Scrum methodologies.
+  - Middle theoretical understanding and hands-on experience in working with enterprise-level solutions.
+  - Experience in projects with fast-changing business requirements and puzzling business logic and multitasking.
+  - Successful experience in with performance optimization, search engine optimization.
+  - Implementing individual type of project structures, writing easy to scale/extend/reuse code.
+  - Strong focus on bugs free code, UI/UX correctness.
+  - Experience on Agile/Scrum methodologies.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working in Avtech LLC
