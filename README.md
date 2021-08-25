@@ -20,7 +20,7 @@ poweful thinsg and share them with the world.
 - Agile/Scrum/Kanban, trello
 - Additional skills: Django Rest Framework, Mysql/Postgresl/PLSQL(Oracle), Python, C++, Git, GirLab
 - Soft: Communicative, Problem-solving, Teamwork, Critical thinking (often in my decisions)
-Experience:
+### Experience:
 - Qualified frontend-developer with over 2 years of experience at engineering, during this time developed and delivered to client web applications in technically complex heterogeneous environment.
 - Experience on development of SCM/ERP/CRM/CMS/HRM systems
 - Key areas of technical expertise: Frontend development, deployment in Docker, testing, production  troubleshooting.
