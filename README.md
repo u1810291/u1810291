@@ -32,7 +32,7 @@ poweful thinsg and share them with the world.
 - Experience on Agile/Scrum methodologies.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working in Avtech LLC
+- 🔭 I’m currently working in EPAM Systems
 - 🌱 I’m currently learning Typescript, Angular
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with Angular
