@@ -1,35 +1,20 @@
 ### Hi there 👋
-First and foremost, I love writing code. Ever since writing my first program in C++ and manipulating it to produce
-a desired output, I have been obsessed with the idea of using software to solve practical problems. Software
-engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of
-programming to transform and improve the lives of people around the world.
-- For my first professional contract with Turonbank, I was given the opportunity to lead a full database management and analyzing
-data that contains this database. For managing manipulating these data I have been using PL/SQL, 'Metabase'
-opensource platform and python programming language. My second contract involved injecting HTML/CSS/
-JavasCript on popular delivery dispatch websites via a browser extension. This contract with Silkroad express
-quickly turned into a full time offer and I have been happily expanding my role as a software engineer ever since.
-Today, I am middle ReactJs developer at AVTECH working on the frontend into our customer acquisition flow so
-that it can be dynamically composed using demographic data and allow for CI/CD deployments to bring features to
-market faster.
-- Even when I leave the office, I tend to continue wriring code at the house. Most recently I have been working
-on a website for my band Colibrisoft. This what keeps me up at night, a never ending thirst to create beautiful,
-poweful thinsg and share them with the world.
-### Skills:
-- HTML/CSS/Javascript, TypeScript, Bootstrap, MDBootstrap
-- Reactjs, Redux, thunk, saga efects, styled-components, reactstrap, Material-UI, Ant-design
-- Agile/Scrum/Kanban, trello
-- Additional skills: Django Rest Framework, Mysql/Postgresl/PLSQL(Oracle), Python, C++, Git, GirLab
-- Soft: Communicative, Problem-solving, Teamwork, Critical thinking (often in my decisions)
-### Experience:
-- Qualified frontend-developer with over 2 years of experience at engineering, during this time developed and delivered to client web applications in technically complex heterogeneous environment.
-- Experience on development of SCM/ERP/CRM/CMS/HRM systems
-- Key areas of technical expertise: Frontend development, deployment in Docker, testing, production  troubleshooting.
-- Middle theoretical understanding and hands-on experience in working with enterprise-level solutions.
-- Experience in projects with fast-changing business requirements and puzzling business logic and multitasking.
-- Successful experience in with performance optimization, search engine optimization.
-- Implementing individual type of project structures, writing easy to scale/extend/reuse code.
-- Strong focus on bugs free code, UI/UX correctness.
-- Experience on Agile/Scrum methodologies.
+Around 3 years of Experience in developing web applications and frameworks using HTML 4/5, CSS2/CSS3, JavaScript/JQuery, Ajax.
+• Proficient in building Web User Interface (UI) using latest W3C/WCAG Web Standards that are cross browser compatible.
+• Experience in writing test cases in Agile Development, Env. Using TDD and BDD approach, using React testing library, Jest and Enzyme.
+• Good knowledge on writing code for Automation test cases.
+• Delivered engaging and visually compelling web designs with user-friendly UI that are cross-browser compatible and mobile responsive.
+• Developed custom websites based on client driven requirements and design documents.
+• Extensive experience in creating style guides, best practices and setting UI standards for enterprise/consumer applications.
+• Experience in working software development tool used by agile teams - JIRA and TFS.
+• Experience in working Search Engine Optimization using HTML5 and XSLT.
+• Experienced in working in AGILE based development environment and participating in Scrum sessions, Sprint Planning, Business Requirement gathering sessions. 
+• Believes in writing well-documented, well-commented, clear and hence maintainable code.
+• Streamlined a development process that improves efficiency and ensures a high quality and easy-to-manage end product.
+• Managed workflow and communication with clients across multiple parallel web projects.
+• Experience in all phases of Software Development Life Cycle (SDLC) including Analysis, Design, Development, Documentation, Testing, Deployment, Version Control and production support.
+• Capable of performing in a fast-paced, result driven atmosphere.
+• Self-motivated Team player with excellent interpersonal and communication skills. Ability to learn and adapt quickly to the emerging new technologies.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working in EPAM Systems
@@ -41,9 +26,9 @@ Here are some ideas to get you started:
 
 
 <a href="#">
-  <img align="center" alt="Genemator's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=u1810291&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+  <img align="center" alt="Otabek's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=u1810291&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
 </a>
 
 <a href="#">
-  <img align="center" alt="Genemator's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u1810291&layout=compact&langs_count=20&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+  <img align="center" alt="Otabek's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u1810291&layout=compact&langs_count=20&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
 </a>
