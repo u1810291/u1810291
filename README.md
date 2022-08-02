@@ -1,20 +1,21 @@
 ### Hi there 👋
 Around 3 years of Experience in developing web applications and frameworks using HTML 4/5, CSS2/CSS3, JavaScript/JQuery, Ajax.
-• Proficient in building Web User Interface (UI) using latest W3C/WCAG Web Standards that are cross browser compatible.
-• Experience in writing test cases in Agile Development, Env. Using TDD and BDD approach, using React testing library, Jest and Enzyme.
-• Good knowledge on writing code for Automation test cases.
-• Delivered engaging and visually compelling web designs with user-friendly UI that are cross-browser compatible and mobile responsive.
-• Developed custom websites based on client driven requirements and design documents.
-• Extensive experience in creating style guides, best practices and setting UI standards for enterprise/consumer applications.
-• Experience in working software development tool used by agile teams - JIRA and TFS.
-• Experience in working Search Engine Optimization using HTML5 and XSLT.
-• Experienced in working in AGILE based development environment and participating in Scrum sessions, Sprint Planning, Business Requirement gathering sessions. 
-• Believes in writing well-documented, well-commented, clear and hence maintainable code.
-• Streamlined a development process that improves efficiency and ensures a high quality and easy-to-manage end product.
-• Managed workflow and communication with clients across multiple parallel web projects.
-• Experience in all phases of Software Development Life Cycle (SDLC) including Analysis, Design, Development, Documentation, Testing, Deployment, Version Control and production support.
-• Capable of performing in a fast-paced, result driven atmosphere.
-• Self-motivated Team player with excellent interpersonal and communication skills. Ability to learn and adapt quickly to the emerging new technologies.
+<br>
+• Proficient in building Web User Interface (UI) using latest W3C/WCAG Web Standards that are cross browser compatible.<br>
+• Experience in writing test cases in Agile Development, Env. Using TDD and BDD approach, using React testing library, Jest and Enzyme.<br>
+• Good knowledge on writing code for Automation test cases.<br>
+• Delivered engaging and visually compelling web designs with user-friendly UI that are cross-browser compatible and mobile responsive.<br>
+• Developed custom websites based on client driven requirements and design documents.<br>
+• Extensive experience in creating style guides, best practices and setting UI standards for enterprise/consumer applications.<br>
+• Experience in working software development tool used by agile teams - JIRA and TFS.<br>
+• Experience in working Search Engine Optimization using HTML5 and XSLT.<br>
+• Experienced in working in AGILE based development environment and participating in Scrum sessions, Sprint Planning, Business Requirement gathering sessions.<br>
+• Believes in writing well-documented, well-commented, clear and hence maintainable code.<br>
+• Streamlined a development process that improves efficiency and ensures a high quality and easy-to-manage end product.<br>
+• Managed workflow and communication with clients across multiple parallel web projects.<br>
+• Experience in all phases of Software Development Life Cycle (SDLC) including Analysis, Design, Development, Documentation, Testing, Deployment, Version Control and production support.<br>
+• Capable of performing in a fast-paced, result driven atmosphere.<br>
+• Self-motivated Team player with excellent interpersonal and communication skills. Ability to learn and adapt quickly to the emerging new technologies.<br>
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working in EPAM Systems
