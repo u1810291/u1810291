@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with Angular
 - 💬 Ask me about ReactJs
-- 📫 How to reach me: telegram username <a href="https://t.me/sophisticated20">@sophisticated20</a> or email otabekbutcher@gmail.com
+- 📫 How to reach me: telegram username or email otabekbutcher@gmail.com
 
 
 <a href="#">
