@@ -26,7 +26,7 @@ Wanna build the next biggest thing in the world? reach out to me: othmanosx@gmai
 <div align="center" ><img src="https://github-readme-stats.vercel.app/api?username=u1810291&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight"></span>
 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Othmanosx's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=u1810291&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Otabek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=u1810291&theme=monokai-metallian&hide_border=true"/>
   </a>
 </div>
 
