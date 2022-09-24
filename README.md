@@ -5,7 +5,7 @@
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@otabek-00acee?style=flat-square&labelColor=00acee&logo=Twitter&logoColor=fff&link=https://twitter.com/@otabek/)](https://twitter.com/@otabek) -->
 
 A Software Engineer specialised in Frontend Web Development, currently working at Gateway for Communication.<br/>
-Wanna build the next biggest thing in the world? reach out to me: othmanosx@gmail.com
+Wanna build the next biggest thing in the world? reach out to me: otabekbutcher@gmail.com
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
