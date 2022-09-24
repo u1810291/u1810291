@@ -1,8 +1,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-otabek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otabek-rizakulov/)](https://www.linkedin.com/in/otabek-rizakulov/)
+[![Gmail Badge](https://img.shields.io/badge/-otabek@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:otabekbutcher@gmail.com)](mailto:otabekbutcher@gmail.com)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-otabek-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/otabek/)](https://instagram.com/otabek) -->
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@otabek-00acee?style=flat-square&labelColor=00acee&logo=Twitter&logoColor=fff&link=https://twitter.com/@otabek/)](https://twitter.com/@otabek) -->
-[![Gmail Badge](https://img.shields.io/badge/-otabek@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:otabekbutcher@gmail.com)](mailto:otabekbutcher@gmail.com)
 
 A Software Engineer specialised in Frontend Web Development, currently working at Gateway for Communication.<br/>
 Wanna build the next biggest thing in the world? reach out to me: othmanosx@gmail.com
