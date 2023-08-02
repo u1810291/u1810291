@@ -6,7 +6,7 @@
 
   <summary>GitHub Trophies</summary>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=u18100291&rank=-C,-A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=u1810291)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 A Software Engineer specialised in Frontend Web Development, currently working at Gateway for Communication.<br/>
