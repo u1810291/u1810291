@@ -34,4 +34,3 @@ Wanna build the next biggest thing in the world? reach out to me: otabekbutcher@
   </a>
 </div>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=u1810291.u1810291)
