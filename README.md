@@ -13,22 +13,13 @@
 
 <ul align="left">
   <li>
-    &nbsp;<img src="./emojis/seed.gif" width="22" valign="middle" alt="seed" />&nbsp;&nbsp;<b>I’m currently learning</b> Merkle proofs, advanced smart contract security, and gas optimizations.
-  </li>
-  <li>
     &nbsp;<img src="./emojis/shake.gif" width="22" valign="middle" alt="shake" />&nbsp;&nbsp;<b>I’m looking to collaborate on</b> Web3 projects, Telegram Mini Apps, and automation solutions.
   </li>
   <li>
-    &nbsp;<img src="./emojis/sos.gif" width="20" valign="middle" alt="sos" />&nbsp;&nbsp;<b>I’m looking for help with</b> <a href="https://t.me/DevCollab">Expanding my developer community on Telegram</a>.
+    <img src="./emojis/chat.gif" width="30" valign="middle" alt="chat" /> <b>Ask me about</b> MERN stack, Next.js, Nest.js, TypeScript, high-load applications, payment services, CRM/ERP, AI Solutios, smart contracts, automation workflows, Telegram bots.
   </li>
   <li>
-    <img src="./emojis/folder.gif" width="30" valign="middle" alt="folder" /> <b>All of my projects are available at</b> <a href="https://t.me/StellaShowcase">@StellaShowcase</a>.
-  </li>
-  <li>
-    <img src="./emojis/chat.gif" width="30" valign="middle" alt="chat" /> <b>Ask me about</b> MERN stack, Next.js, TypeScript, smart contracts, automation workflows, Telegram bots.
-  </li>
-  <li>
-    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:nextblock.dev@gmail.com">nextblock.dev@gmail.com</a> or <a href="https://t.me/StellaRay777">@StellaRay777</a>
+    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:otabek.rzakulov@gmail.com">otabek.rzakulov@gmail.com</a> or <a href="https://t.me/sophisticated_20">@sophisticated_20</a>
   </li>
   <li>
     &nbsp;<img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" />&nbsp;&nbsp;<b>Fun fact:</b> I automate things just to avoid doing them manually once.
@@ -48,9 +39,6 @@
     </td>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="40" height="40" alt="Nuxt.js" /><br>Nuxt.js
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" /><br>Flutter
     </td>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="Nest.js" /><br>Nest.js
@@ -117,7 +105,7 @@
 </table>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=u1810291&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Stella%20Ray’s%20activity%20in%20the%20past%2030%20days"  width="98%" alt="@u1810291's github-readme-streak-stats"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=u1810291&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Otabek’s%20activity%20in%20the%20past%2030%20days"  width="98%" alt="@u1810291's github-readme-streak-stats"/>
 </p>
 
 <p align="center">
