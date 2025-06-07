@@ -1,36 +1,130 @@
-
-[![Linkedin Badge](https://img.shields.io/badge/-otabek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otabek-rizakulov/)](https://www.linkedin.com/in/otabek-rizakulov/)
-[![Gmail Badge](https://img.shields.io/badge/-otabek@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:otabekbutcher@gmail.com)](mailto:otabekbutcher@gmail.com)
-<!-- [![Instagram Badge](https://img.shields.io/badge/-otabek-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/otabek/)](https://instagram.com/otabek) -->
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@otabek-00acee?style=flat-square&labelColor=00acee&logo=Twitter&logoColor=fff&link=https://twitter.com/@otabek/)](https://twitter.com/@otabek) -->
-
-  <summary>GitHub Trophies</summary>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=u1810291)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-A Software Engineer specialised in Frontend Web Development, currently working at Gateway for Communication.<br/>
-Wanna build the next biggest thing in the world? reach out to me: otabekbutcher@gmail.com
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-0E1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![GraghQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FF8A65?style=flat-square&logo=Firebase&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-593d88?style=flat-square&logo=Redux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-<div align="center" >
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Otabek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=u1810291&theme=monokai-metallian&hide_border=true"/>
-  </a>
+<div>
+    <img align="right" src="https://komarev.com/ghpvc/?username=u1810291&label=Profile%20views&color=0e75b6&style=flat" alt="u1810291" />
 </div>
 
+<h1 align="center">Hello <img src="./emojis/hi.gif" width="28" alt="hi" />, welcome to my corner of GitHub.</h1>
+
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Full-Stack+Web2+%26+Web3+Developer+%7C+Scalable%2C+high-performance+apps.;Automation+%26+Telegram+Bots+%7C+Smart+workflows+%26+mini+apps.;Casino+%26+Betting+Sites+%7C+Secure%2C+high-traffic+platforms.;Smart+Contracts+%26+dApps+%7C+Decentralized%2C+trustless+solutions." alt="Typing SVG" />
+</p>
+<p align="center">
+    <a href="https://github.com/u1810291?tab=achievements"><img src="https://github-trophies.vercel.app/?username=u1810291&theme=onestar&no-frame=true&column=6&row=2"   alt="u1810291"/></a>
+</p>
+
+<ul align="left">
+  <li>
+    &nbsp;<img src="./emojis/seed.gif" width="22" valign="middle" alt="seed" />&nbsp;&nbsp;<b>I’m currently learning</b> Merkle proofs, advanced smart contract security, and gas optimizations.
+  </li>
+  <li>
+    &nbsp;<img src="./emojis/shake.gif" width="22" valign="middle" alt="shake" />&nbsp;&nbsp;<b>I’m looking to collaborate on</b> Web3 projects, Telegram Mini Apps, and automation solutions.
+  </li>
+  <li>
+    &nbsp;<img src="./emojis/sos.gif" width="20" valign="middle" alt="sos" />&nbsp;&nbsp;<b>I’m looking for help with</b> <a href="https://t.me/DevCollab">Expanding my developer community on Telegram</a>.
+  </li>
+  <li>
+    <img src="./emojis/folder.gif" width="30" valign="middle" alt="folder" /> <b>All of my projects are available at</b> <a href="https://t.me/StellaShowcase">@StellaShowcase</a>.
+  </li>
+  <li>
+    <img src="./emojis/chat.gif" width="30" valign="middle" alt="chat" /> <b>Ask me about</b> MERN stack, Next.js, TypeScript, smart contracts, automation workflows, Telegram bots.
+  </li>
+  <li>
+    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:nextblock.dev@gmail.com">nextblock.dev@gmail.com</a> or <a href="https://t.me/StellaRay777">@StellaRay777</a>
+  </li>
+  <li>
+    &nbsp;<img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" />&nbsp;&nbsp;<b>Fun fact:</b> I automate things just to avoid doing them manually once.
+  </li>
+</ul>
+
+<table align="center">
+  <tr>
+    <td align="center" width="103">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /><br>React
+    </td>
+    <td align="center" width="103">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" /><br>Redux
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /><br>Next.js
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="40" height="40" alt="Nuxt.js" /><br>Nuxt.js
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" /><br>Flutter
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="Nest.js" /><br>Nest.js
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /><br>Node.js
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /><br>Express
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="103">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" /><br>TypeScript
+    </td>
+    <td align="center" width="103">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" /><br>Python
+    </td>
+    <td align="center" width="103">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="48" height="48" /><br>Django
+    </td>
+    <td align="center" width="103">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" /><br>REST API
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=solidity" width="40" height="40" alt="Solidity" /><br>Solidity
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=threejs" width="40" height="40" alt="Three.js" /><br>Three.js
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=d3" width="40" height="40" alt="D3.js" /><br>D3.js
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=materialui" width="40" height="40" alt="Material UI" /><br>Material UI
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" /><br>Tailwind
+    </td>
+    <td align="center" width="103">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" /><br>Sass
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" /><br>Bootstrap
+    </td>
+    <td align="center" width="103">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" /><br>AWS
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" width="103">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" /><br>MySQL
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /><br>PostgreSQL
+    </td>
+     <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" /><br>SQLite
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=u1810291&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Stella%20Ray’s%20activity%20in%20the%20past%2030%20days"  width="98%" alt="@u1810291's github-readme-streak-stats"/>
+</p>
+
+<p align="center">
+ <a href="https://github.com/u1810291?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=u1810291&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true"  width="49%" alt="GitHub Stats"/></a>
+ <a href="https://github.com/u1810291?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=u1810291&theme=gotham&hide_border=true"  width="49%" alt="GitHub Streak"/></a>
+</p>
+
+<p align="center">
+     <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
+</p>
