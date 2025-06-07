@@ -102,7 +102,7 @@
       <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" /><br>SQLite
     </td>
     <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=tailwindcss" width="40" height="40" alt="TailwindCSS" /><br>Docker
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /><br>Docker
     </td>
 
   </tr>
