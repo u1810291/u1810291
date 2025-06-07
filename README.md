@@ -13,7 +13,7 @@
 
 <ul align="left">
   <li>
-    &nbsp;<img src="./emojis/shake.gif" width="22" valign="middle" alt="shake" />&nbsp;&nbsp;<b>I’m looking to collaborate on</b> Web3 projects, Telegram Mini Apps, and automation solutions.
+    &nbsp;<img src="./emojis/shake.gif" width="22" valign="middle" alt="shake" />&nbsp;&nbsp;<b>I’m looking to collaborate on</b> Backend, Frontend web applications, Web3 projects, Telegram Mini Apps, and automation solutions.
   </li>
   <li>
     <img src="./emojis/chat.gif" width="30" valign="middle" alt="chat" /> <b>Ask me about</b> MERN stack, Next.js, Nest.js, TypeScript, high-load applications, payment services, CRM/ERP, AI Solutios, smart contracts, automation workflows, Telegram bots.
