@@ -38,6 +38,9 @@
       <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /><br>Next.js
     </td>
     <td align="center" width="103">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" /><br>TypeScript
+    </td>
+    <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="40" height="40" alt="Nuxt.js" /><br>Nuxt.js
     </td>
     <td align="center" width="103">
@@ -51,9 +54,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" /><br>TypeScript
-    </td>
     <td align="center" width="103">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" /><br>Python
     </td>
@@ -75,11 +75,11 @@
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=materialui" width="40" height="40" alt="Material UI" /><br>Material UI
     </td>
-  </tr>
-  <tr>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" /><br>Tailwind
     </td>
+  </tr>
+  <tr>
     <td align="center" width="103">
       <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" /><br>Sass
     </td>
@@ -101,6 +101,10 @@
      <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" /><br>SQLite
     </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=tailwindcss" width="40" height="40" alt="TailwindCSS" /><br>Docker
+    </td>
+
   </tr>
 </table>
 
