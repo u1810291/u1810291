@@ -114,5 +114,5 @@
 
 <p align="center">
  <a href="https://github.com/u1810291?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=u1810291&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true"  width="49%" alt="GitHub Stats"/></a>
- <a href="https://github.com/u1810291?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=u1810291&theme=gotham&hide_border=true"  width="49%" alt="GitHub Streak"/></a>
+ <a href="https://github.com/u1810291?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=u1810291&theme=gotham&hide_border=true" width="49%" alt="GitHub Streak"/></a>
 </p>
